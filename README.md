@@ -4,4 +4,4 @@
  1. Install the latest version of Python<br>
  2. Add your email, and your app password in the text file: important.txt<br>
  3. Watch this full tutorial on how to use this bot step by step<br>
-    >
+    >https://youtu.be/-6oatcox8Pg
